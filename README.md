@@ -1,3 +1,3 @@
-# Kioku
+# Kioku 📝
 
-A description of this package.
+Simple caching package for Swift.
