@@ -1,6 +1,18 @@
-# Kioku 📝
+# Kioku
 
-Simple caching package for Swift.
+<table>
+  <tr>
+  <td>
+      <blockquote>
+        <p>
+          Kioku - 記憶 (きおく - the faculty by which the mind stores and remembers information.
+        </p>
+    </td>
+    <td>
+      <img src="https://cdn.tristancamejo.com/icons/kioku.png" />
+    </td>
+  </tr>
+</table>
 
 ## Usage
 
