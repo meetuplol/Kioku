@@ -1,3 +1,5 @@
+> **Warning**: Meetup no longer uses Swift in our codebase and will no longer maintain this.
+
 # Kioku
 
 <table>
